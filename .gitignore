@@ -1,3 +1,8 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
 # Compiled class file
 *.class
 
@@ -6,6 +11,31 @@
 
 # BlueJ files
 *.ctxt
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Spring Bootstrap artifacts
+
+dependency-reduced-pom.xml
+README.html
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
